@@ -467,6 +467,16 @@
       "url": "https://github.com/raintank/worldping-app",
       "versions": [
         {
+          "version": "1.2.3",
+          "commit": "43684e5013dc6ac304aa2c2589c087193ec8e36b",
+          "url": "https://github.com/raintank/worldping-app"
+        },
+        {
+          "version": "1.2.2",
+          "commit": "7d9d8a082b3f886a2ecc7754f820c15ceb84a777",
+          "url": "https://github.com/raintank/worldping-app"
+        },
+        {
           "version": "1.2.1",
           "commit": "e4102655509447612dd3d80670fc502984dd7fe1",
           "url": "https://github.com/raintank/worldping-app"
@@ -782,6 +792,11 @@
         {
           "version": "1.0.0",
           "commit": "7470519f0efd3707d318191ecf654c7ab127f6bb",
+          "url": "https://github.com/GridProtectionAlliance/osisoftpi-grafana"
+        },
+        {
+          "version": "1.0.1",
+          "commit": "15b3841602ed9710afcfff76318fb038186ffb42",
           "url": "https://github.com/GridProtectionAlliance/osisoftpi-grafana"
         }
       ]
@@ -1133,37 +1148,42 @@
     {
      "id": "raintank-kubernetes-app",
       "type": "app",
-      "url": "https://github.com/raintank/kubernetes-app",
+      "url": "https://github.com/grafana/kubernetes-app",
       "versions": [
         {
           "version": "0.0.1",
           "commit": "d7acbdaffb19d8a854e7d56a3cd3f70d0c64c2d6",
-          "url": "https://github.com/raintank/kubernetes-app"
+          "url": "https://github.com/grafana/kubernetes-app"
         },
         {
           "version": "0.0.2",
           "commit": "74aad4f33628de2b6f1cb61b479837fee04dccf4",
-          "url": "https://github.com/raintank/kubernetes-app"
+          "url": "https://github.com/grafana/kubernetes-app"
         },
         {
           "version": "0.0.3",
           "commit": "ed877ca95147ebe9387e0aeb9b11b7ec93bf7d51",
-          "url": "https://github.com/raintank/kubernetes-app"
+          "url": "https://github.com/grafana/kubernetes-app"
         },
         {
           "version": "0.0.4",
           "commit": "799e113a15e0bbc83746eaf2ef5d47858ae7c2bd",
-          "url": "https://github.com/raintank/kubernetes-app"
+          "url": "https://github.com/grafana/kubernetes-app"
         },
         {
           "version": "0.0.5",
           "commit": "224896bbd0fdda8e2c4476cf8ac2d6cc5fe3fecf",
-          "url": "https://github.com/raintank/kubernetes-app"
+          "url": "https://github.com/grafana/kubernetes-app"
         },
         {
           "version": "0.0.6",
           "commit": "156237739a74957e2246cba97f2a434eac430a5c",
-          "url": "https://github.com/raintank/kubernetes-app"
+          "url": "https://github.com/grafana/kubernetes-app"
+        },
+        {
+          "version": "0.0.7",
+          "commit": "c1a3834edf97d22000ebe15b968375c25056dd1b",
+          "url": "https://github.com/grafana/kubernetes-app"
         }
       ]
     },
